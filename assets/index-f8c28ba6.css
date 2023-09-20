@@ -1,36 +1,36 @@
 @font-face {
   font-family: Fira;
-  src: url(./assets/FiraCode-Regular-917b4adc.ttf) format("opentype");
+  src: url(./FiraCode-Regular-917b4adc.ttf) format("opentype");
   font-weight: 400;
 }
 @font-face {
   font-family: Fira;
-  src: url(./assets/FiraCode-Medium-198e7d5c.ttf) format("opentype");
+  src: url(./FiraCode-Medium-198e7d5c.ttf) format("opentype");
   font-weight: 500;
 }
 @font-face {
   font-family: Fira;
-  src: url(./assets/FiraCode-SemiBold-7f764266.ttf) format("opentype");
+  src: url(./FiraCode-SemiBold-7f764266.ttf) format("opentype");
   font-weight: 600;
 }
 @font-face {
   font-family: Hauora;
-  src: url(./assets/Hauora-Regular-a9afa23a.ttf) format("opentype");
+  src: url(./Hauora-Regular-a9afa23a.ttf) format("opentype");
   font-weight: 400;
 }
 @font-face {
   font-family: Hauora;
-  src: url(./assets/Hauora-Light-3067208f.ttf) format("opentype");
+  src: url(./Hauora-Light-3067208f.ttf) format("opentype");
   font-weight: 300;
 }
 @font-face {
   font-family: Hauora;
-  src: url(./assets/Hauora-ExtraBold-72f52160.ttf) format("opentype");
+  src: url(./Hauora-ExtraBold-72f52160.ttf) format("opentype");
   font-weight: 800;
 }
 @font-face {
   font-family: Montserrat;
-  src: url(./assets/Montserrat-Bold-98b14868.ttf) format("opentype");
+  src: url(./Montserrat-Bold-98b14868.ttf) format("opentype");
   font-weight: 700;
 }
 :root {
@@ -209,13 +209,13 @@ p {
   background-size: cover;
 }
 .jury-photo-1 {
-  background-image: url(./assets/photo-1-12008293.png);
+  background-image: url(./photo-1-12008293.png);
 }
 .jury-photo-2 {
-  background-image: url(./assets/photo-2-bc947585.png);
+  background-image: url(./photo-2-bc947585.png);
 }
 .jury-photo-3 {
-  background-image: url(./assets/photo-3-8d9d9a28.png);
+  background-image: url(./photo-3-8d9d9a28.png);
 }
 .jury-name {
   color: #211e1e;
